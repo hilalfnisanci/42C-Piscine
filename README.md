@@ -1,6 +1,6 @@
 # 42C-Piscine
 
-- ![#f03c15]**Shell00 -- %100 ->**`#f03c15` ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK <br />
+<font color="red">**Shell00 -- %100 ->**</font> ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK <br />
 **COO -- %88  ->** ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: SIGABORT <br />
 **C01 -- %100 ->** ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK <br />
 **C02 -- %85  ->** ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: OK | ex11: KO | ex12: Does not compile <br />
